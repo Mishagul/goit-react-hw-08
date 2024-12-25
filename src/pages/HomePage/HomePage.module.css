@@ -1,0 +1,14 @@
+.theme {
+    text-align: center;
+    font-size: 28px;
+    text-transform: uppercase;
+    margin-left: 40px;
+}
+
+.text{
+    text-align: center;
+    font-size: 18px;
+    text-transform: uppercase;
+    margin-left: 40px; 
+    font-weight: 500;
+}
